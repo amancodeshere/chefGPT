@@ -1,5 +1,12 @@
+
+# Editors
+.idea
+*.iml
+
+# OS metadata
 .DS_Store
-.idea/
+Thumbs.db
 src/.DS_Store
 
+# API keys and secrets
 .env
