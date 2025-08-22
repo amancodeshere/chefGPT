@@ -10,3 +10,6 @@ src/.DS_Store
 
 # API keys and secrets
 .env
+
+# Data files:
+cleaned_data
